@@ -400,7 +400,7 @@ nav ul li a {
 /* ....................hero section  start here.............*/
 
 .hero {
-  background-image: url("../image/hero.jpeg");
+  background-image: url("./image/hero.jpeg");
   background-size: cover;
   /* width: auto; */
   position: relative;
@@ -422,7 +422,7 @@ nav ul li a {
   backdrop-filter: blur(2.3px);
   -webkit-backdrop-filter: blur(1.3px);
   border: 1px solid rgba(255, 255, 255, 0.03);
-  padding: 3rem ;
+  padding: 2rem ;
 }
 
 .hero_btns .view:hover {
@@ -586,7 +586,7 @@ nav ul li a {
 }
 
 .menu_samples {
-  background-image: url(../image/menuimg.jpeg);
+  background-image: url(./image/menuimg.jpeg);
   background-size: cover;
   background-position: center;
   display: flex;
